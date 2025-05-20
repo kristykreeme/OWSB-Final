@@ -1,0 +1,10 @@
+S001,Global Foods Sdn Bhd,Ali Rahman,03-9876-5432,ali@globalfoods.com,123 Jalan Merdeka, Kuala Lumpur
+S002,Premium Ingredients Co,Tan Wei Ming,03-8765-4321,tanwm@premiumingredients.com,456 Jalan Makmur, Selangor
+S003,Freshway Produce,Rajesh Kumar,04-7654-3210,rajesh@freshway.com,789 Jalan Damai, Penang
+S004,Eastern Spice Trading,Nurul Huda,05-6543-2109,nurul@easternspice.com,101 Jalan Harmoni, Kelantan
+S005,Quality Dairy Products,Jason Wong,06-5432-1098,jason@qualitydairy.com,202 Jalan Sentosa, Johor
+S006,Organic Farms Inc,Michael Brown,+1-555-123-4567,michael@organicfarms.com,789 Green Street, California, USA
+S007,Asian Delights Co Ltd,Somchai Patel,+66-2-123-4567,somchai@asiandelights.co.th,45 Sukhumvit Road, Bangkok, Thailand
+S008,European Gourmet GmbH,Hans Schmidt,+49-30-123456,hans@europeangourmet.de,Berliner Str. 123, Berlin, Germany
+S009,Oceania Fresh Exports,Emma Wilson,+61-2-9876-5432,emma@oceaniafresh.com.au,42 Harbor Drive, Sydney, Australia
+S010,Global Beverage Corp,Carlos Rodriguez,+34-91-123-4567,carlos@globalbev.com,Calle Mayor 28, Madrid, Spain

@@ -1,0 +1,8 @@
+U001,Administrator,admin,admin,ADMIN
+U002,John Smith,john,pass123,SALES_MANAGER
+U003,Maria Garcia,maria,pass123,PURCHASE_MANAGER
+U004,David Lee,david,pass123,INVENTORY_MANAGER
+U005,Sarah Johnson,sarah,pass123,FINANCE_MANAGER
+U006,Ahmed Khan,ahmed,pass123,SALES_STAFF
+U007,Lisa Wong,lisa,pass123,PURCHASE_STAFF
+U008,Robert Chen,robert,pass123,INVENTORY_STAFF

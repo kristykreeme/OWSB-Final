@@ -1,0 +1,40 @@
+I001,Basmati Rice 5kg,Premium quality basmati rice,Grains,25.90,0,20,S001
+I002,Jasmine Rice 10kg,Fragrant Thai jasmine rice,Grains,45.50,0,15,S001
+I003,Brown Rice 2kg,Healthy whole grain brown rice,Grains,12.80,7,10,S001
+I004,Fresh Milk 1L,High-calcium fresh milk,Dairy,7.90,0,30,S005
+I005,Butter 250g,Premium salted butter,Dairy,12.50,0,15,S005
+I006,Cheese Block 500g,Cheddar cheese block,Dairy,28.90,17,10,S005
+I007,Olive Oil 1L,Extra virgin olive oil,Cooking,35.90,0,10,S002
+I008,Soy Sauce 750ml,Premium soy sauce,Cooking,8.90,12,20,S002
+I009,Cooking Oil 5L,Vegetable cooking oil,Cooking,26.90,0,15,S002
+I010,Ground Pepper 100g,Fine ground black pepper,Spices,5.90,0,25,S004
+I011,Curry Powder 200g,Mixed curry powder,Spices,9.80,0,20,S004
+I012,Cinnamon Sticks 50g,Premium cinnamon sticks,Spices,7.50,0,15,S004
+I013,Sugar 1kg,Fine white sugar,Miscellaneous,5.90,0,30,S003
+I014,Salt 500g,Fine table salt,Miscellaneous,2.90,0,40,S003
+I015,Flour 1kg,All-purpose flour,Miscellaneous,4.90,0,25,S003
+I016,Ground Pepper 100g,Fine ground black pepper,Spices,5.90,22,25,S004
+I017,Curry Powder 200g,Mixed curry powder,Spices,9.80,0,20,S004
+I018,Cinnamon Sticks 50g,Premium cinnamon sticks,Spices,7.50,86,15,S004
+I019,Cardamom Pods 30g,Green cardamom pods,Spices,8.90,30,10,S004
+I020,Star Anise 50g,Whole star anise,Spices,6.50,40,15,S004
+I021,Sugar 1kg,Fine white sugar,Dry Goods,5.90,0,30,S003
+I022,Salt 500g,Fine table salt,Dry Goods,2.90,0,40,S003
+I023,Flour 1kg,All-purpose flour,Dry Goods,4.90,0,25,S003
+I024,Baking Powder 100g,Double-acting baking powder,Dry Goods,3.50,50,15,S003
+I025,Corn Starch 500g,Fine corn starch,Dry Goods,4.20,60,20,S003
+I026,Spaghetti 500g,Italian spaghetti,Pasta,6.90,17,20,S008
+I027,Egg Noodles 400g,Fresh egg noodles,Pasta,5.50,0,15,S002
+I028,Rice Vermicelli 400g,Thin rice noodles,Pasta,4.80,61,20,S007
+I029,Fusilli 500g,Spiral pasta,Pasta,7.20,45,15,S008
+I030,Lasagna Sheets 300g,Flat pasta sheets,Pasta,8.90,35,10,S008
+I031,Green Tea 100g,Japanese green tea leaves,Beverages,18.90,5,10,S007
+I032,Coffee Beans 500g,Arabica coffee beans,Beverages,29.90,0,15,S010
+I033,Cocoa Powder 250g,Pure cocoa powder,Beverages,12.50,35,10,S010
+I034,Fruit Juice 2L,Mixed fruit juice,Beverages,9.90,0,20,S009
+I035,Coconut Water 1L,Pure coconut water,Beverages,7.90,50,15,S009
+I036,Organic Quinoa 500g,South American quinoa,Grains,18.90,8,10,S006
+I037,Truffle Oil 100ml,Italian black truffle oil,Cooking,45.90,5,10,S008
+I038,Saffron 1g,Premium Spanish saffron,Spices,25.90,3,5,S010
+I039,Maple Syrup 250ml,Pure Canadian maple syrup,Cooking,22.90,7,10,S006
+I040,Vanilla Pods 5pc,Madagascar vanilla pods,Baking,32.50,2,5,S010
